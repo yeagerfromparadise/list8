@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+h2{
+    text-align: center;
+}
+h3{
+    color: brown;
+}
+h4{
+    color: black;
+}
+img{
+    height: 200px;
+    width: 250px;
+   position: absolute;
+   top: 110px;
+   right: 30px;
+}
+span{
+    height: 200px;
+    width: 250px;
+   position: absolute;
+   top: 300px;
+   right: 10px;
+}
+
+hr{
+    color: grey;
+}
